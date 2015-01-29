@@ -365,4 +365,10 @@ nav ul li a:hover
 		display: none;
 	}
 }
+@media screen and (max-width:300px){
+	#contenido .item .imagen_item{ 
+		min-height: 200px;
+	}
+}
+
 
